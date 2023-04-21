@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "email": "mbenardeau0@w3.org",
+    "address": "Suite 53",
+    "first_name": "Miner",
+    "last_name": "Benardeau",
+    "city": "Pailin",
+    "country": "Cambodia",
+    "games_conf": {
+      "1": {
+        "game_name": "Blackjack",
+        "lastTimePlayed": 1234123443,
+        "amountPlayed": 1234,
+        "amountWon": 12,
+        "gameOptions": {
+          "1": {
+            "name": "backCard",
+            "currentValue": "xmas"
+          },
+          "2": {
+            "name": "chipSkin",
+            "currentValue": "compass"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2,
+    "email": "cgoodband1@acquirethisname.com",
+    "address": "Room 643",
+    "first_name": "Corena",
+    "last_name": "Goodband",
+    "city": "Strzelin",
+    "country": "Poland",
+    "games_conf": {}
+  },
+  {
+    "id": 3,
+    "email": "cmattiessen2@nymag.com",
+    "address": "Apt 914",
+    "first_name": "Clo",
+    "last_name": "Mattiessen",
+    "city": "Laboulaye",
+    "country": "Argentina",
+    "games_conf": {}
+  },
+  {
+    "id": 4,
+    "email": "nlebbern3@omniture.com",
+    "address": "Suite 58",
+    "first_name": "Nanny",
+    "last_name": "Lebbern",
+    "city": "Mollebamba",
+    "country": "Peru",
+    "games_conf": {}
+  },
+  {
+    "id": 5,
+    "email": "mcowderay4@unicef.org",
+    "address": "10th Floor",
+    "first_name": "Mirelle",
+    "last_name": "Cowderay",
+    "city": "Agrínio",
+    "country": "Greece",
+    "games_conf": {}
+  },
+  {
+    "id": 6,
+    "email": "csporgeon5@netvibes.com",
+    "address": "PO Box 24787",
+    "first_name": "Conney",
+    "last_name": "Sporgeon",
+    "city": "Vitomarci",
+    "country": "Slovenia",
+    "games_conf": {}
+  },
+  {
+    "id": 7,
+    "email": "ckinloch6@yolasite.com",
+    "address": "PO Box 75835",
+    "first_name": "Cyrus",
+    "last_name": "Kinloch",
+    "city": "Pigeiros",
+    "country": "Portugal",
+    "games_conf": {}
+  },
+  {
+    "id": 8,
+    "email": "ldrivers7@patch.com",
+    "address": "Suite 59",
+    "first_name": "Lewes",
+    "last_name": "Drivers",
+    "city": "Labuan",
+    "country": "Philippines",
+    "games_conf": {}
+  },
+  {
+    "id": 9,
+    "email": "thapgood8@myspace.com",
+    "address": "Apt 1993",
+    "first_name": "Tildy",
+    "last_name": "Hapgood",
+    "city": "Yongledian",
+    "country": "China",
+    "games_conf": {}
+  },
+  {
+    "id": 10,
+    "email": "rraselles9@sakura.ne.jp",
+    "address": "Room 458",
+    "first_name": "Regina",
+    "last_name": "Raselles",
+    "city": "Dianwan",
+    "country": "China",
+    "games_conf": {}
+  },
+  {
+    "id": 11,
+    "email": "dgeekiea@constantcontact.com",
+    "address": "Apt 725",
+    "first_name": "Darnell",
+    "last_name": "Geekie",
+    "city": "Sredniy",
+    "country": "Russia",
+    "games_conf": {}
+  },
+  {
+    "id": 12,
+    "email": "csteedenb@senate.gov",
+    "address": "5th Floor",
+    "first_name": "Cash",
+    "last_name": "Steeden",
+    "city": "Maoyang",
+    "country": "China",
+    "games_conf": {}
+  },
+  {
+    "id": 13,
+    "email": "cshanksterc@ustream.tv",
+    "address": "Room 1291",
+    "first_name": "Cherish",
+    "last_name": "Shankster",
+    "city": "Qohord-e Bālā",
+    "country": "Iran",
+    "games_conf": {}
+  },
+  {
+    "id": 14,
+    "email": "sboissierd@adobe.com",
+    "address": "11th Floor",
+    "first_name": "Sonnnie",
+    "last_name": "Boissier",
+    "city": "L'Union",
+    "country": "France",
+    "games_conf": {}
+  },
+  {
+    "id": 15,
+    "email": "hmucklowe@webs.com",
+    "address": "PO Box 93936",
+    "first_name": "Hebert",
+    "last_name": "Mucklow",
+    "city": "Tabuk",
+    "country": "Philippines",
+    "games_conf": {}
+  },
+  {
+    "id": 16,
+    "email": "aisaacsonf@hc360.com",
+    "address": "Room 1438",
+    "first_name": "Arvie",
+    "last_name": "Isaacson",
+    "city": "Acobamba",
+    "country": "Peru",
+    "games_conf": {}
+  },
+  {
+    "id": 17,
+    "email": "mjahnigg@ustream.tv",
+    "address": "PO Box 6752",
+    "first_name": "Mimi",
+    "last_name": "Jahnig",
+    "city": "Cernik",
+    "country": "Croatia",
+    "games_conf": {}
+  }
+]

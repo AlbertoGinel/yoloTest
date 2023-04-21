@@ -1,0 +1,153 @@
+{
+  "1": {
+    "id": 1,
+    "game_name": "Blackjack",
+    "game_category": "table",
+    "unix_date": 1623500104000,
+    "config_options": {
+      "1": {
+        "name": "backCard",
+        "currentValue": "default",
+        "values": ["default","xmas","fire","classic","dark"]
+      },
+      "2": {
+        "name": "chipSkin",
+        "currentValue": "default",
+        "values": ["default","goldCoin","compass","classic"]
+      }
+    }
+  },
+  "2": {
+    "id": 2,
+    "game_name": "Roulette",
+    "game_category": "table",
+    "unix_date": 1619500104000,
+    "config_options": {}
+  },
+  "3": {
+    "id": 3,
+    "game_name": "Baccarat",
+    "game_category": "live_dealer",
+    "unix_date": 1620500104000,
+    "config_options": {}
+  },
+  "4": {
+    "id": 4,
+    "game_name": "Craps",
+    "game_category": "table",
+    "unix_date": 1621500104000,
+    "config_options": {}
+  },
+  "5": {
+    "id": 5,
+    "game_name": "Slots of Gold",
+    "game_category": "slots",
+    "unix_date": 1622500104000,
+    "config_options": {}
+  },
+  "6": {
+    "id": 6,
+    "game_name": "Jacks or Better",
+    "game_category": "video_poker",
+    "unix_date": 1624500104000,
+    "config_options": {}
+  },
+  "7": {
+    "id": 7,
+    "game_name": "Keno",
+    "game_category": "specialty",
+    "unix_date": 1625500104000,
+    "config_options": {}
+  },
+  "8": {
+    "id": 8,
+    "game_name": "Ultimate Texas Hold'em",
+    "game_category": "table",
+    "unix_date": 1626500104000,
+    "config_options": {}
+  },
+  "9": {
+    "id": 9,
+    "game_name": "Dream Catcher",
+    "game_category": "live_dealer",
+    "unix_date": 1627500104000,
+    "config_options": {}
+  },
+  "10": {
+    "id": 10,
+    "game_name": "Gonzo's Quest",
+    "game_category": "slots",
+    "unix_date": 1628500104000,
+    "config_options": {}
+  },
+  "11": {
+    "id": 11,
+    "game_name": "Deuces Wild",
+    "game_category": "video_poker",
+    "unix_date": 1629500104000,
+    "config_options": {}
+  },
+  "12": {
+    "id": 12,
+    "game_name": "Scratch & Win",
+    "game_category": "specialty",
+    "unix_date": 1630500104000,
+    "config_options": {}
+  },
+  "13": {
+    "id": 13,
+    "game_name": "Three Card Poker",
+    "game_category": "table",
+    "unix_date": 1631500104000,
+    "config_options": {}
+  },
+  "14": {
+    "id": 14,
+    "game_name": "Lightning Roulette",
+    "game_category": "live_dealer",
+    "unix_date": 1632500104000,
+    "config_options": {}
+  },
+  "15": {
+    "id": 15,
+    "game_name": "Starburst",
+    "game_category": "slots",
+    "unix_date": 1633500104000,
+    "config_options": {}
+  },
+  "16": {
+    "id": 16,
+    "game_name": "Aces & Eights",
+    "game_category": "video_poker",
+    "unix_date": 1634500104000,
+    "config_options": {}
+  },
+  "17": {
+    "id": 17,
+    "game_name": "Virtual Horse Racing",
+    "game_category": "specialty",
+    "unix_date": 1635500104000,
+    "config_options": {}
+  },
+  "18": {
+    "id": 18,
+    "game_name": "Mega Moolah",
+    "game_category": "slots",
+    "unix_date": 1637500104000,
+    "config_options": {}
+  },
+  "19": {
+    "id": 19,
+    "game_name": "All Aces",
+    "game_category": "video_poker",
+    "unix_date": 1638500104000,
+    "config_options": {}
+  },
+  "20": {
+    "id": 20,
+    "game_name": "Bingo",
+    "game_category": "specialty",
+    "unix_date": 1639500104000,
+    "config_options": {}
+  }
+}
