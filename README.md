@@ -1,3 +1,28 @@
+This is the Yolo test for Front-End Developer, the task was:
+
+Please, visit the deployed version: https://yolo-game-management.web.app/users
+
+Task: Implement a Responsive Dashboard Application
+Requirements:
+1 Create a dashboard application that displays data from REST API. The API should provide
+information about users, user data, games, and game configurations.
+2. Data used for the assignment can be mocked and in the candidate’s preferred structure.
+3. The application should be responsive and work well on desktop and mobile devices.
+4. The design should be clean, modern, and intuitive, with clear visual cues to highlight
+important data points.
+5. The application should be implemented using HTML, CSS, and JavaScript. The use of a
+Front-End framework such as React or Angular is recommended.
+6. The application should include the following features:
+- A table displays games data - including the name, game category, and creation date
+- A table displaying customers’ data - including the name, email, and address
+- The ability to filter the data displayed in the tables based on the date, range, and the
+category
+- The ability to add new, delete, or edit the existing data displayed in the tables
+- The application should also include appropriate error handling and loading indicators for
+a smooth user experience.
+Submission: Please provide a link to the GitHub repository containing the source code for the
+application, along with a brief README file that explains how to run the application.
+
 I'm going to explain the different screens of the app from top to bottom:
 
 https://yolo-game-management.web.app/users
